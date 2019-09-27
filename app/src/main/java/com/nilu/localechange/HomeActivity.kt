@@ -16,5 +16,13 @@ class HomeActivity : BaseActivity() {
         btnSetting.setOnClickListener {
             startActivity(Intent(this, SettingActivity::class.java))
         }
+       
+        btnData.setOnClickListener {
+            startActivity(Intent(this, DataActivity::class.java))
+        }
+        
+        btnSample.setOnClickListener {
+            startActivity(Intent(this, SampleDataActivity::class.java))
+        }
     }
 }
