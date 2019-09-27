@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Locale Change</string>
+    <string name="open_setting_activity">सेटिंग गतिविधि खोलें</string>
+    <string name="open_sample_data_activity">नमूना डेटा गतिविधि खोलें</string>
+    <string name="home_screen">होम स्क्रीन</string>
+    <string name="open_data_screen">डेटा स्क्रीन खोलें</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="hindi">Hindi</string>
+    <string name="select_language">भाषा का चयन करें</string>
+    <string name="change_language">भाषा बदलो</string>
+    <string name="setting_screen">सेटिंग स्क्रीन</string>
+    <string name="good_morning">शुभ प्रभात</string>
+    <string name="hello_my_name_is_nilesh_rathod">नमस्कार मेरा नाम नीलेश राठौड़ है</string>
+    <string name="this_is_sample_demo_project">यह सैंपल डेमो प्रोजेक्ट है</string>
+    <string name="sample_text">एक एंड्रॉयड डेवलपर के लिए तीन सबसे खुशमिजाज जादुई शब्द - ग्रैडल बिल्ड समाप्त</string>
+    <string name="demo_sample_text">एंड्रॉयड गूगल द्वारा विकसित एक मोबाइल ऑपरेटिंग सिस्टम है। यह लिनक्स कर्नेल और अन्य ओपन-सोर्स सॉफ़्टवेयर के एक संशोधित संस्करण पर आधारित है</string>
+</resources>

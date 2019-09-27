@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Locale Change</string>
+    <string name="open_setting_activity">Open Setting Activity</string>
+    <string name="open_sample_data_activity">Open Sample Data Activity</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="open_data_screen">Open Data Screen</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="hindi">Hindi</string>
+    <string name="select_language">Select Language</string>
+    <string name="change_language">Change Language</string>
+    <string name="setting_screen">Setting Screen</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="hello_my_name_is_nilesh_rathod">Hello my name is nilesh rathod</string>
+    <string name="this_is_sample_demo_project">This is sample demo project</string>
+    <string name="sample_text">The three  happiest magical word for an android developer - Gradle build finished</string>
+    <string name="demo_sample_text">Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and other open source software</string>
+</resources>
